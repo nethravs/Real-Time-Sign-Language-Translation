@@ -1,6 +1,6 @@
 # Real-Time Sign Language Translation
 
-###  Screenshots
+##  Screenshots
 Screenshots demonstrating the working of the system are included in the uploaded project report.
 
 
