@@ -62,7 +62,16 @@ This workflow allows the system to handle both static gestures (like numbers or 
 - Customer service and public service assistance  
 - Human–Computer Interaction (HCI) systems  
 - Smart devices and gesture-based control systems  
-- Virtual and augmented reality environments  
+- Virtual and augmented reality environments
+
+  
+
+## Problems Faced
+- Accurate hand gesture recognition under varying lighting conditions was challenging  
+- Dynamic gestures required proper sequence formation and preprocessing  
+- Balancing real-time performance with model accuracy  
+- Handling occlusion or partial hand visibility caused occasional misclassification  
+- Fine-tuning CNN–LSTM model hyperparameters was time-consuming   
 
 
 
